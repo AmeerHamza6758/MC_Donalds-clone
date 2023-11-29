@@ -1,0 +1,46 @@
+.form_elements>input {
+    /* padding: 10px 30px; */
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    border: 2px solid coral;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form_elements>button {
+    width: 400px;
+    height: 50px;
+    color: whitesmoke;
+        border-radius: 15px;
+    background-color: coral;
+    text-align: center;
+}
+
+.contact_details {
+    padding: 20px;
+    background-color: darkgray;
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.contact_details>h1 {
+    margin-bottom: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.contact_us {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}

@@ -1,0 +1,63 @@
+.homeDesign {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 4rem;
+}
+
+/* .imageDesign {
+    display: flex; 
+     flex-wrap: wrap; 
+     justify-content: center; 
+     align-items: center; 
+      } */
+
+.imageDesign img {
+  height: 250px;
+  width: 380px;
+}
+
+.text {
+  font-size: 25px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+div>button {
+  background-color: coral;
+  color: white;
+  padding: 5px;
+  border-radius: 100px;
+
+}
+
+/* .homeDesign1 {
+  display: flex;
+  flex-wrap: nowrap; 
+  align-items: center;
+  margin: 50px;
+  
+}
+
+.homeDesign1 img {
+  height: 250px;
+  width: 380px;
+} */
+.homeDesign_bottom {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 4rem;
+}
+
+.text_bottom>p {
+  color:var(--third-color);
+  font-weight: bold;
+  text-align: justify;
+  width: 400px;
+    text-transform: capitalize;
+}
