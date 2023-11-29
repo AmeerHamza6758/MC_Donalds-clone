@@ -48,25 +48,25 @@ function Footer() {
                 <br />
                 <div className='links'>
                     <div className='icons2'>
-                        <a href='#'><FaFacebook /></a>
-                        <a href='#'><FaInstagram /></a>
-                        <a href='#'><FaTwitter /></a>
-                        <a href='#'><FaLinkedin /></a>
-                        <a href='#'><FaInstagram /></a>
+                        <a href='@'><FaFacebook /></a>
+                        <a href='@'><FaInstagram /></a>
+                        <a href='@'><FaTwitter /></a>
+                        <a href='@'><FaLinkedin /></a>
+                        <a href='@'><FaInstagram /></a>
                     </div>
 
                     <div>
-                        <a href='#'><img src={image1} /> </a>
-                        <a href='#'><img src={image2}/> </a>
+                        <a href='@'><img src={image1} /> </a>
+                        <a href='@'><img src={image2}/> </a>
                     </div>
 
                 </div>
                 <hr />
                 <div class="footer">
                     <nav>
-                        <a href="#">Contact</a>
-                        <a href="#">Privacy Policy</a>
-                        <a href="#">Terms & Conditions</a>
+                        <a href="@">Contact</a>
+                        <a href="@">Privacy Policy</a>
+                        <a href="@">Terms & Conditions</a>
                     </nav>
                     <span className="end-item">©2023 McDonald's. All Rights Reserveddd.</span>
 

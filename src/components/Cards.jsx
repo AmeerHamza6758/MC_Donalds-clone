@@ -51,7 +51,7 @@ function Cards() {
                 <div class="card-body  d-flex flex-column justify-content-between align-items-center">
                   <h5 class="card-title text-danger fs-2"><b>{item.title}</b></h5>
                   <p class="card-text w-65 text-center">{item.desc}</p>
-                  <a href="#" class="btn btn-primary mb-4 " style={{backgroundColor:"#ffbc0d",color:"black",border:"none" }}>{item.btnText}</a>
+                  <a href="@" class="btn btn-primary mb-4 " style={{backgroundColor:"#ffbc0d",color:"black",border:"none" }}>{item.btnText}</a>
                 </div>
               </div>
             )

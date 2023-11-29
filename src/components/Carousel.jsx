@@ -25,10 +25,10 @@ function Carousel() {
         modules={[Autoplay]}
         className="mySwiper"
       >
-        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2023/07/McCrispy-Banner-Desktop.png.png"/></SwiperSlide>
-        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2023/06/MasterCard-Slide-Desktop.png"/></SwiperSlide>
-        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2023/01/delivery-points-desktop-slider.png"/></SwiperSlide>
-        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2022/08/MyM-Rewards.jpg"/></SwiperSlide>
+        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2023/07/McCrispy-Banner-Desktop.png.png" alt= "pic"/></SwiperSlide>
+        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2023/06/MasterCard-Slide-Desktop.png "alt= "pic"/></SwiperSlide>
+        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2023/01/delivery-points-desktop-slider.png"alt= "pic"/></SwiperSlide>
+        <SwiperSlide><img src="https://mcdonalds.com.pk/wp-content/uploads/2022/08/MyM-Rewards.jpg"alt= "pic"/></SwiperSlide>
      
       </Swiper>
     </div>
