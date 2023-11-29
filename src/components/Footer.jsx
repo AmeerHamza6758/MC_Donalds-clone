@@ -56,8 +56,8 @@ function Footer() {
                     </div>
 
                     <div>
-                        <a href='@'><img src={image1} /> </a>
-                        <a href='@'><img src={image2}/> </a>
+                        <a href='@'><img src={image1} alt=""/> </a>
+                        <a href='@'><img src={image2} alt=""/> </a>
                     </div>
 
                 </div>
