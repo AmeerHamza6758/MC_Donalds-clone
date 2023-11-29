@@ -1,0 +1,50 @@
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+        padding: 40px 0px;
+    }
+
+    .footer nav {
+        display: flex;
+        justify-content: flex-start;
+        /* gap:15; */
+    }
+
+    .footer a {
+        color: #000000d1;
+        text-decoration: none;
+        margin: 0 15px;
+    }
+
+    .links {
+        display: flex;
+        justify-content: space-between;
+        padding: 40px 0; /* Corrected the padding syntax */
+    }
+    
+    .icons2 {
+        display: flex;
+        gap: 2rem; /* Added gap between icons */
+        align-items: center; /* Center icons vertically */
+    }
+    
+    .icons2 a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: black;
+        width: 2.5rem; /* Adjust the size as needed */
+        height: 2.5rem; /* Adjust the size as needed */
+        border-radius: 50%;
+        border: 2px solid black;
+        text-decoration: none;
+        font-size: 1.2rem; /* Adjust the font size as needed */
+    }
+    
+    .icons2 a:active {
+        cursor: pointer;
+        color: black;
+    }
+    
+    
